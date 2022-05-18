@@ -92,16 +92,7 @@ Below is a table that provides an overview of the technologies I have experience
 
 | Front End            | Back End             | Infrastructure |
 | -------------------- | -------------------- | -------------- |
-| React                | Node                 | AWS            |
-| Redux                | Go (Golang)          | Digital Ocean  |
-| Angular              | Postgres             | Git            |
-| TypeScript           | MongoDB              | CI/CD          |
-| JavaScript           | Aurora               | Linux          |
-| HTML/CSS/SCSS        | OAuth2 OpenID Client | Docker         |
-| WebSockets           | OAuth2 OpenID Server | Nginx          |
-| Webpack              | REST                 | AWS Cognito    | 
-| OAuth2 OpenID Client | Serverless           | Auth0          |
-
+| React                | Node                 | AWS
 <div class="page-break"></div>
 <div class="no-print">
 
@@ -185,25 +176,3 @@ In my youth I had an entrepreneurial mind. I advertised on-site computer repair 
 This was over a large period of time where I used my skills to create additional income on the side of a primary income source.
 
 I made an attempt to gather some written references from that time period, see the links below:
-
-## PSP Homebrew (2007)
-
-At the age of 14, I had a PSP but couldn't afford any games for it. With the desire to play the console but a lack of media to consume, I began searching the internet for free options.
-
-Upon discovering about the concept of homebrew, I started learning how to run it on my PSP.
-
-Eventually I wanted to contribute to the community and write my own homebrew.
-
-Naturally, this introduced me to the world of Linux and C++ which was far to complicated for me at the time. Thankfully there was an alternative Lua runtime which was very easy to get started with.
-
-There was an old video game builder called "Game Maker" which would allow you to build a game using visual tooling.
-
-Inspired by this, and understanding the semantics of Lua, I attempted to reproduce this software using C# and WinForms.
-
-I created the [Windows utility I called "PSP Game Maker"](https://psp.brewology.com/downloads/download.php?id=6510&mcid=1).
-
-I was too young to be capable of creating anything meaningful however this introduction laid the foundation of comfortable familiarity needed to explore the concepts later in life.
-
-</div>
-
-<div class="page-break"></div>
