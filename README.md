@@ -1,9 +1,9 @@
 <div class="profile-picture">
-  <p class="no-print" align="center"><img src="images/profile-picture-2.jpg"  height="200px"/></p>
+  <p class="no-print" align="center"><img src="https://github.com/mrpintu-dev1/mrpintu-dev1/blob/main/Picture-2018-04-20%2022.29.29.jpg"  height="200px"/></p>
   <div>
-    <p align="center"><b>David Al</b></p>
+    <p align="center"><b>Pintu Das</b></p>
     <p align="center" class="no-site"><i>Technology enthusiast and mad scientist</i></p>
-    <p align="center">Senior Full Stack Software Engineer<br>Sydney, Australia</p>
+    <p align="center">Full Stack Software Developer<br>Dhaka, Bangladesh</p>
   </div>
 </div>
 
@@ -88,12 +88,10 @@ I really enjoy greenfield projects where I have the capacity to construct an ent
 
 My roles have taken me through many disciplines. When working for Zip Co Limited I spent 8 months heavily involved in the development of their security and authentication service.
 
-My role with Rokt involves interesting challenges involving the secure transmission of personally identifying information across multiple iframes.
-
 Whatever the challenge, I enjoy sharing what I learn with colleagues, hosting presentations or writing internal articles.
 
 </br>
-<p align="center"><img src="images/go-presentation.jpg" width="700px"></p>
+<p align="center"><img src="" alt="presentation pic" width="700px"></p>
 <p align="center"><i>My personal philosophy is that it’s not a question of if you’re are capable of achieving something, <br>it’s a question of how long it'll take you to learn</i></p>
 </br>
 
