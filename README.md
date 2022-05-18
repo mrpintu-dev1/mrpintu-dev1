@@ -13,15 +13,12 @@
 - [Introduction](#introduction)
 - [Technologies](#technologies)
 - [Tutorials](#tutorials)
-- [Presentations](#presentations)
-  - [Brown Bag Sessions](#brown-bag-sessions)
-  - [Amazon Web Services Tutorials](#amazon-web-services-tutorials)
 - [Articles](#articles)
   - [SOLID TypeScript](#solid-typescript)
 - [YouTube](#youtube)
-  - [API Design with Go](#api-design-with-go)
+  - [API Design with Nodejs](#api-design-with-go)
   - [Front End Tutorials](#front-end-tutorials)
-  - [Go API using an SQL database (5 part series)](#go-api-using-an-sql-database-5-part-series)
+  - [Nodejs API using an NoSQL database (5 part series)](#go-api-using-an-sql-database-5-part-series)
 - [Employment Experience](#employment-experience)
   - [Rokt](#rokt)
     - [Overview](#overview)
@@ -125,32 +122,6 @@ Overall, the experience of teaching was massively rewarding and I continued the 
 
 Every one of my students went on to enter the IT industry. I feel proud to think that in some way, the tutorials we did may have served to contribute to their paths and achievements.
 
-# Presentations
-
-Sharing knowledge is something which I really enjoy. Hosting presentations on topics I am researching at the time, or on a topic I am working on.
-
-Using the presentations as a forum where other engineers can engage and share their experiences really helps me shape my understanding, as well as share that understanding amongst the group.
-
-## Brown Bag Sessions
-
-In my professional career, I have held brown bag sessions on a multitude of topics. 
-
-These topics range from front end specific concepts like the WC3 custom element specification to back end technology introductions like using Google's Go language.
-
-</br>
-<p align="center"><img src="images/angular-talk.jpg" width="700px"></p>
-</br>
-
-## Amazon Web Services Tutorials
-
-In an effort to motivate myself and my colleagues to complete our AWS certificate exams, I organised a weekly meeting we called the "AWS Ninjas".
-
-We would go over a new AWS topic each week with the end goal being the successful certification of the staff members.
-
-
-</br>
-<p align="center"><img src="images/aws-ninjas.jpg" width="700px"></p>
-<p align="center"><i>AWS Ninjas</i></p>
 </br>
 
 # Articles
@@ -161,55 +132,14 @@ I will often read books and gain inspiration from the understanding of different
 
 I enjoy sharing my findings by applying them to languages and technologies I use daily by writing articles.
 
-## SOLID TypeScript
-
-After approaching the Go language, I was introduced to an entire era of software engineering concepts I previously hadn't been exposed to. 
-
-Go is essentially C with a runtime that provides garbage collection and task scheduling. This allows it to introduce novel methods of handling concurrency, high performance and minimal syntax.
-
-One thing that stuck out to me was the community's attitude of not rushing design decision, instead preferring contribution through careful consideration.
-
-The language features minimal keywords, the community leaning on best practices through the use of engineering principles, often personified as proverbs.
-
-Proverbs such as:
-
-```
-Accept interfaces, return structs
-```
-
-Or 
-
-```
-Don't communicate by sharing memory, share memory by communicating
-```
-
-Learning what these proverbs were trying to achieve led me to explore how software could be written in a way in which business would extract the most utility - which involves reusability, testability and deliverability.
-
-All too often I see companies throwing away code, rewriting entire services (particularly in the front end) when little has materially changed.
-
-Reading about SOLID design principles helped me uncover ways in which software could be written to enable business flexibility without compromising the integrity of the software itself.
-
-TypeScript being a superset of JavaScript which grants developers the ability to include type information to standard JavaScript code and given my use of the language, I decided to write an article applying these concepts to it.
-
-[Link to article](https://github.com/alshdavid-edu/docs/blob/master/solid-typescript/readme.md)
-
 # YouTube
 
 Another medium for knowledge sharing is recorded videos for YouTube. My goal is to provide concepts in a way that's approachable and easy to digest.
 
 To view the rest of the videos, check out my channel directly:
 
-[YouTube Channel](https://www.youtube.com/channel/UCUBQwTd4Xx8U0V5nfuH6Y5Q/videos?view_as=subscriber)
+[YouTube Channel](https://www.youtube.com/channel/UCOMAHa9HFk9FH2NEjqMoB2A)
 
-<br>
-
-## Front End Tutorials
-
-In this video I set up an Angular client on an existing http server that is using Go and the web framework Gin. I cover some simple ideas like two way data-binding, structural directives and modules.
-
-[Link To Video](https://youtu.be/pHRHJCYBqxw)
-<br>
-<p align="center"><img src="images/youtube-front-end.jpg" /></p>
 <br>
 
 # Employment Experience
@@ -277,76 +207,3 @@ I was too young to be capable of creating anything meaningful however this intro
 </div>
 
 <div class="page-break"></div>
-
-# Endorsements
-
-<div class="endorsements">
-
-<h4>Rokt</h4>
-<a 
-  href="">
-  James Wilson - Chief Technical Officer
-</a>
-
-<h4>Pay Later Travel</h4>
-<a 
-  href="references/farouk-ismail-pay-later-travel.pdf">
-  Farouk Ismail - Chief Technical Officer
-</a>
-
-<h4>Zip Co</h4>
-<a 
-  href="">
-  Darren Smith - Product Manager
-</a>
-<a 
-  href="">
-  Zarhayda Tun - Software Engineer
-</a>
-<a 
-  href="">
-  Malcolm Fitzgerald - Chief Technical Officer
-</a>
-<a 
-  href="references/brent-mkendrick-head-of-engineering.pdf">
-  Brent Mckendrick - Head of Engineering, Zip Co
-</a>
-
-<h4>Marshall Installs</h4>
-<a 
-  href="">
-  Carl Marshall - Chief Executive Officer
-</a>
-
-<h4>Brown Paper Bag</h4>
-<a 
-  href="">
-  Josh Warner - Lead Engineer
-</a>
-<a 
-  href="">
-  Zac Snedden - Senior Engineer
-</a>
-<a 
-  href="">
-  Brenden - Head of Product
-</a>
-
-<h4>Personal</h4>
-<a 
-  href="">
-  Lauren Judge - Software Developer, Student
-</a>
-<a 
-  href="references/ihsan-mujdeci-computer-clearance-centre.pdf">
-  Ihsan Mudjeci - Operations Manager, Computer Clearance Center
-</a>
-<a 
-  href="references/glen-carpenter-ray-white-beachhaven.pdf">
-  Glen Carpenter - Ray White, Beach Haven
-</a>
-<a 
-  href="references/debbie-ferreira-personal.pdf">
-  Debbie Ferreira - Customer
-</a>
-</div>
