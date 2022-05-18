@@ -7,30 +7,7 @@
   </div>
 </div>
 
-<div class="no-site no-print">
-<h1>Contents</h1>
 
-- [Introduction](#introduction)
-- [Technologies](#technologies)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-  - [SOLID TypeScript](#solid-typescript)
-- [YouTube](#youtube)
-  - [API Design with Nodejs](#api-design-with-go)
-  - [Front End Tutorials](#front-end-tutorials)
-  - [Nodejs API using an NoSQL database (5 part series)](#go-api-using-an-sql-database-5-part-series)
-- [Employment Experience](#employment-experience)
-  - [Rokt](#rokt)
-    - [Overview](#overview)
-- [MISC](#misc)
-  - [Computer Clearance Centre (2013)](#computer-clearance-centre-2013)
-  - [On Call Computer Repairs (2012 - 2014)](#on-call-computer-repairs-2012---2014)
-  - [PSP Homebrew (2007)](#psp-homebrew-2007)
-- [Endorsements](#endorsements)
-
-</div>
-
-<div class="no-print">
 
 # Introduction
 
