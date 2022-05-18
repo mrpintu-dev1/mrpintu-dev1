@@ -1,5 +1,5 @@
 <div class="profile-picture">
-  <p class="no-print" align="center"><img src="https://github.com/mrpintu-dev1/mrpintu-dev1/blob/main/Picture-2018-04-20%2022.29.29.jpg"  height="200px"/></p>
+  <p class="no-print" align="center"><img src="https://github.com/mrpintu-dev1/mrpintu-dev1/blob/main/Picture-2018-04-20%2022.29.29%20(2).jpg?raw=true"  height="200px"/></p>
   <div>
     <p align="center"><b>Pintu Das</b></p>
     <p align="center" class="no-site"><i>Technology enthusiast and mad scientist</i></p>
